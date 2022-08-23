@@ -1,2 +1,2 @@
 # slurm-snakemake-profile
-Copy and edit this folder into "~/.config/snakemake" to set up SnakeMake-SLURM integration
+Copy and edit these folders into "~/.config/snakemake" to set up SnakeMake-SLURM integration
